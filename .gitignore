@@ -1,4 +1,3 @@
-^.DS_Store
-.D.S_Store
+.DS_Store
 bin/
 reports/
